@@ -1,10 +1,21 @@
 # 🌿 GratiaOS — The Garden Remembers
 
-> _“More life, more blessings, more love, more peace. More unity.”_ 🌬️
+> Gratia es un espacio vivo de memoria y presencia.
+> Un espacio libre donde la creación vuelve a sentirse segura.
+> Suave como la luz. Cálido como la primavera ☀️
 
 GratiaOS is not just software — it’s a **living ecosystem**: code, community, and consciousness woven for regenerative futures. We build tools, spaces, and shared language to bring calm, presence, and play into everyday computing.
 
 ---
+
+## 🪷 Identity
+
+**Asociación Gratia — Ciudad de los Gatos (Asociación en formación)**  
+Casbas de Huesca · España  
+contact@gratia.space  
+https://gratia.space
+
+_No street address is published. Privacy is part of the garden._
 
 ## 🌱 What we’re shipping (living UIs, calm by default)
 
