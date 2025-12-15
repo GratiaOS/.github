@@ -1,8 +1,8 @@
 # 🌿 GratiaOS — The Garden Remembers
 
-> Gratia es un espacio vivo de memoria y presencia.
-> Un espacio libre donde la creación vuelve a sentirse segura.
-> Suave como la luz. Cálido como la primavera ☀️
+> Gratia es un espacio vivo de memoria y presencia.  
+> Un lugar donde la creación recuerda que está a salvo.  
+> Cálida como la primavera. Suave como la luz de la Luna. 🌕
 
 GratiaOS is not just software — it’s a **living ecosystem**: code, community, and consciousness woven for regenerative futures. We build tools, spaces, and shared language to bring calm, presence, and play into everyday computing.
 
