@@ -4,7 +4,7 @@
 > Un lugar donde la creación recuerda que está a salvo.  
 > Cálida como la primavera. Suave como la luz de la Luna. 🌕
 
-GratiaOS is not just software — it’s a **living ecosystem**: code, community, and consciousness woven for regenerative futures. We build tools, spaces, and shared language to bring calm, presence, and play into everyday computing.
+GratiaOS is not just software — it's a **living ecosystem**: code, community, and consciousness woven for regenerative futures. We build tools, spaces, and shared language to bring calm, presence, and play into everyday computing.
 
 ---
 
@@ -17,7 +17,7 @@ https://gratia.space
 
 _No street address is published. Privacy is part of the garden._
 
-## 🌱 What we’re shipping (living UIs, calm by default)
+## 🌱 What we're shipping (living UIs, calm by default)
 
 - **🌱 [Garden Core](https://github.com/GratiaOS/garden-core)** — tokens, primitives, and patterns for presence‑first interfaces.
 - **🧠 [M3](https://github.com/GratiaOS/m3)** — local‑first memory & meaning engine (Rust server + React UI).
@@ -39,33 +39,39 @@ Start here: **Welcome & How to Jam** → https://github.com/orgs/GratiaOS/discus
 
 ---
 
-## 🌳 Support the Garden (Sponsorship)
+## 🏔️ Orígenes y el Nodo Actual
 
-_Offer only what you love._ Your support keeps CI/hosting steady, funds design & docs, and buys focused maker hours — no growth‑at‑all‑costs pressure.
+Somos una red distribuida, forjada a través de tres puntos de referencia:  
+**Berceni (Bucarest) → Maragall (Barcelona) → Bastarás (Aragón).**
 
-**Goal — “First Breath”**
-**$333/mo** covers infra + one calm maker day/month to land docs & tidy. Thank you for watering the garden. 🌿
+Hoy, el nodo principal opera desde un valle silencioso en Huesca, España. No huimos del mundo, sino que asumimos la responsabilidad de un espacio físico retirado para tener la claridad necesaria. Construimos herramientas de software (M3) fuera del circuito de extracción corporativo. Sin oficinas de cristal, solo un hogar estable desde donde escribimos código al milímetro.
 
-**Tiers (choose what feels right):**
+---
 
-- **🌱 Seed — $7/mo** · Waters the roots (CI, hosting, small passes). _Perk:_ gratitude + your name on the Sponsors list (or **anonymous seed**).
-- **🌿 Sapling — $21/mo** · Gives a week more breath (design time, docs). _Perks:_ Seed + a short quarterly **Field Notes**.
-- **🌳 Grove — $77/mo** · Creates momentum (focused maker hours). _Perks:_ Sapling + occasional **early peeks** (demos/docs) when available.
-- **🌲 Forest — $210/mo** · Gives shade to many (dedicated build time & care). _Perks:_ all above + one optional **garden hour** per quarter (Q&A / pairing / design jam).
+## 🌳 Sostener la Red
 
-👉 Sponsor: https://github.com/sponsors/GratiaOS
+El ecosistema GRATIA es de código abierto (AGPL/Apache). No hay muros de pago, funciones bloqueadas ni telemetría oculta. Todo está a la vista.
 
-**Stewardship**
-We publish a simple **monthly mirror** — what came in, what it nourished, what’s next. No paywalls, just shared momentum. 🪴
+Si usas lo que construimos, puedes apoyar la continuidad de este esfuerzo directamente, de persona a persona. No financias una ONG corporativizada, sino que sostienes el nodo físico que mantiene los servidores en línea y el tiempo de trabajo profundo del equipo.
+
+**Cómo apoyar:**
+
+- ⚡ **Mantén el nodo activo:** Cualquier contribución va directa a la infraestructura local (hardware, hosting, conectividad) y al tiempo de desarrollo.
+- 🤝 **Contribución técnica:** Haz un PR, escribe documentación, repara un bug.
+
+👉 **Pasa por el jardín:** https://gratia.space/asociacion
+
+**Transparencia**  
+Publicamos periódicamente un registro técnico y operativo claro. Ves exactamente qué se ha construido y cómo se sostiene la red. Sin microgestión performativa. Solo acción y flujo.
 
 **60‑second activation (free, now)**
 
-1. **Breathe:** In 3 · Out 6 × 6 (jaw soft, shoulders drop).
+1. **Breathe:** In 3 · Out 6 × 6 (jaw soft, shoulders drop).
 2. **Name the band:** slow · flow · heavy.
 3. **One true next:** the smallest 20–90s step you can actually do.
 4. **Thank one thing:** out loud, even quietly.
 
-_If nothing else, keep this. It’s yours._
+_If nothing else, keep this. It's yours._
 
 ---
 
@@ -81,6 +87,6 @@ _If nothing else, keep this. It’s yours._
 
 ## 🌬 Whisper
 
-> “Offer only what you love. The field doesn’t need more hustle — it needs wholeness.”  
-> “Attention is water; choose where it falls.”  
+> "Offer only what you love. The field doesn't need more hustle — it needs wholeness."  
+> "Attention is water; choose where it falls."  
 > _Let the field inhale the change._
