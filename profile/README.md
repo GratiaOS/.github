@@ -1,43 +1,75 @@
 # 🌿 GratiaOS
 
-> **A resilient environment for digital sovereignty and personal presence.**  
-> Gratia is a Personal Operating System designed to keep memory local-first, private, and human-centric.
+### A calm place to think.
 
-GratiaOS builds sovereign tools for personal memory, presence, and quiet coordination. The public surface is intentionally selective: development happens in a private canonical monorepo, while production-ready Presence Nodes are published as clean entry points for users, collaborators, and reviewers.
+GratiaOS is a collection of local-first tools for reflection, memory, and everyday life.
 
-## 🏗️ Ecosystem
+We design and build quiet software that helps people think more clearly, remember what matters, and reconnect with their own rhythm.
 
-We use a monorepo-first strategy so apps, packages, tokens, and product decisions stay coherent. To balance privacy with transparency, specific repositories are extracted and maintained as public nodes.
+---
 
-### 🚀 Public Repositories
+### Product Design ✣ Software Engineering ✣ Human-Centered Systems
 
-- **[gratia-presence](https://github.com/GratiaOS/gratia-presence)** — **Active Production Showcase.** A standalone slice of the Gratia stack demonstrating Garden UI, local-first product logic, and production-ready Next.js architecture for Cloudflare Pages.
-- **[m3](https://github.com/GratiaOS/m3)** — **Genesis Archive [Legacy].** The original research repository where the Pattern Engine and EmotionalOS concepts were born. It documents the technical and philosophical groundwork that informs the current architecture.
+Built by a product leader with experience delivering digital products across insurance, fintech, and enterprise ecosystems.
 
-### 🏛️ Private Monorepo: The Garden
+GratiaOS applies product strategy and engineering discipline to explore a simple question:
 
-The internal Garden monorepo houses the full suite of sovereign tools:
+> *What would software look like if it optimized for presence instead of attention?*
 
-- **apps/m3** — Advanced local-first knowledge and memory system.
-- **apps/firegate** — Household-facing companion and ritual interface.
-- **apps/amigo** — Quiet transport layer for notes and rooms.
-- **packages/garden-core** — Shared primitives, theme tokens, Garden UI, and the presence kernel.
+---
 
-## ♟️ Product Philosophy
+## 🧭 Public Projects
 
-We build under the **Garden Stack** methodology:
+[**gratia-presence**](https://github.com/gratia-space/gratia-presence)
 
-1. **Local-first by default:** user data stays in the browser or node unless explicitly shared.
-2. **Ghost Mode integrity:** core loops require no tracking, no account, and no always-on infrastructure.
-3. **Product sovereignty:** ROI-driven architecture keeps the system inexpensive to operate, resilient, and difficult to de-platform.
+Production-ready Next.js application designed for reflection, journaling, and calmer digital routines.
 
-## 🌍 Portals
+**Stack**: Next.js · TypeScript · Cloudflare Pages · Local-first Architecture
 
-- **Website:** [gratia.space](https://gratia.space)
-- **Strategy:** [Product & ROI Strategy](https://github.com/GratiaOS/gratia-presence/blob/main/PRODUCT_STRATEGY.md)
-- **Support the Node:** [revolut.me/gratiaos](https://revolut.me/gratiaos)
-- **Email:** [contact@gratia.space](mailto:contact@gratia.space)
+[**m3**](https://github.com/gratia-space/m3)
 
-## 🌬️ Whisper
+Living archive documenting the research, experiments, and architectural foundations that evolved into GratiaOS.
 
-_Build locally. Keep memory close. Bring the fix home._
+**Scope**: Memory systems · EmotionalOS · Local-first architecture · Human-centered interaction models
+
+---
+
+## 🌬️ Development Model
+
+Active development happens in a private monorepo.
+
+Public repositories showcase selected production work, research, and technical explorations from the broader GratiaOS ecosystem.
+
+---
+
+## 🪷 Design Principles
+
+**✣ Local-first by default**  
+Your data stays under your control.
+
+**✣ Privacy before growth**  
+Built for trust, not for metrics.
+
+**✣ Calm over engagement**  
+No artificial hooks. No continuous alert states.
+
+**✣ Reflection over optimization**  
+Designed to help you process experience, not just clear a backlog.
+
+**✣ Human agency over dependency**  
+Tools that serve your life, not your screen time.
+
+---
+
+🌍 Links
+
+Website
+https://gratia.space
+
+Contact
+contact@gratia.space
+
+---
+
+*Heartware for ordinary days.*  
+Begin where you are.
