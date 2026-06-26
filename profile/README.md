@@ -20,13 +20,13 @@ GratiaOS applies product strategy and engineering discipline to explore a simple
 
 ## 🧭 Public Projects
 
-[**gratia-presence**](https://github.com/gratia-space/gratia-presence)
+[**gratia-presence**](https://github.com/GratiaOS/gratia-presence)
 
 Production-ready Next.js application designed for reflection, journaling, and calmer digital routines.
 
 **Stack**: Next.js · TypeScript · Cloudflare Pages · Local-first Architecture
 
-[**m3**](https://github.com/gratia-space/m3)
+[**m3**](https://github.com/GratiaOS/m3)
 
 Living archive documenting the research, experiments, and architectural foundations that evolved into GratiaOS.
 
