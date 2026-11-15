@@ -32,7 +32,7 @@ The garden doesn't remember. You do.
 
 | Repo | What |
 |---|---|
-| [**portal**](https://github.com/GratiaOS/portal) | El portal.  The main project. Self-hosted team chat with a companion. v0.2.1. |
+| [**portal**](https://github.com/GratiaOS/portal) | El portal.  The main project. Self-hosted team chat with a companion. |
 | [**amigo-fm**](https://github.com/GratiaOS/amigo-fm) | A single-tape radio protocol. 1 Worker, 1 R2, 2 routes, 24h. |
 | [**gratia-presence**](https://github.com/GratiaOS/gratia-presence) | Local-first Personal OS. Sovereign.  |
 | [**m3**](https://github.com/GratiaOS/m3) | *[Archived.]* Living archive of research and experiments. |
