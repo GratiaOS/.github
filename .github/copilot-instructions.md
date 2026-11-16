@@ -72,7 +72,7 @@ as?: 'span' | 'button' | 'a';
 - **Respect .env secrets:** Never log or commit `M3_BEARER`, API keys, or local configs.
 - **Preserve headers:** Garden component headers are canonical — update content, not structure.
 - **Branch naming:** `feat/feature-name`, `fix/bug-description`
-- **No funding mechanisms:** GratiaOS is self-funded. Do not add or suggest donation, sponsor, support-us or funding links, pages or CTAs (no Revolut, no GitHub Sponsors, no `FUNDING.yml`).
+- **No fundraising for GratiaOS itself:** GratiaOS is self-funded. Do not introduce fundraising mechanisms for GratiaOS itself: no donation, sponsor or support-us links, pages or CTAs, and no `FUNDING.yml`. Financial features that belong to a product (payments, gifts, subscriptions) are a separate domain and stay open to design.
 
 ## Key Files
 
