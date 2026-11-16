@@ -76,4 +76,9 @@ Full spec: [RFC-001 — Presence Physics](https://github.com/GratiaOS/portal/blo
 
 ---
 
+Self-funded. No grants. No sponsors.  
+The garden is kept by the one who planted it.
+
+---
+
 *Begin where you are.*   
